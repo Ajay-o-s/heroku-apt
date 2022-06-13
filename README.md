@@ -1,4 +1,4 @@
-# heroku-apt  [![Build Status](https://app.travis-ci.com/Ajay-o-s/heroku-apt.svg?branch=main)](https://app.travis-ci.com/github/Ajay-o-s/heroku-apt)
+# heroku-apt 
 
 #### Command-line
 
